@@ -9,5 +9,3 @@ Bulk Message Sender For WhatsApp
 
 ### Add no. in the excel sheet
 ### npm start
-
-theme: jekyll-theme-minimal
